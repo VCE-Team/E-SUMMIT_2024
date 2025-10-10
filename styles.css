@@ -270,7 +270,7 @@ nav {
 }
 
 .logo img {
-  max-width: 500px;
+  max-width: 300px;
 }
 
 nav input[type="checkbox"] {
@@ -531,8 +531,8 @@ nav .nav-links a:hover {
 }
 
 .logo img {
-  width: 80%;
-  min-width: 100px;
+  width: 67%;
+  min-width: 80px;
 }
 #soc{
   font-size: 25px;

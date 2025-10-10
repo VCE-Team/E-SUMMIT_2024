@@ -653,7 +653,7 @@ highlight {
 .img2 {
   width: 100%;
   height: auto;
-  max-width: 600px;
+  max-width: 300px;
   display: block;
   margin: 0 auto;
 }
@@ -662,6 +662,9 @@ highlight {
   max-width: 100%;
   height: auto;
   overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .bannerimg {
   width: 100%;
@@ -848,8 +851,8 @@ highlight {
 }
 
 .logo img {
-  width: 80%;
-  min-width: 100px;
+  width: 67%;
+  min-width: 80px;
 }
 
 .bodynav {
@@ -878,7 +881,7 @@ nav {
 }
 
 .logo img {
-  max-width: 500px;
+  max-width: 300px;
 }
 
 nav input[type="checkbox"] {
